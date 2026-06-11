@@ -5,13 +5,12 @@
  * Description:       Create and serve a virtual humans.txt file in your site root and add the rel="author" link to the head, following the humanstxt.org standard.
  * Version:           1.0.0
  * Requires at least: 5.0
- * Requires PHP:      7.2
+ * Requires PHP:      8.1
  * Author:            Marta Torre
  * Author URI:        https://martatorre.dev
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       mtdev-humans-txt
- * Domain Path:       /languages
  *
  * @package MtdevHumansTxt
  */
