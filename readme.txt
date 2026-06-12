@@ -35,7 +35,7 @@ Development / source code: https://github.com/martatorredev/mtdev-humans-txt
 
 1. Upload the `mtdev-humans-txt` folder to the `/wp-content/plugins/` directory, or install it from the WordPress plugin directory.
 2. Activate the plugin through the **Plugins** menu.
-3. Go to **Settings â†’ Humans.txt** to edit the content.
+3. Go to **Settings -> Humans.txt** to edit the content.
 4. Visit `https://your-site.com/humans.txt` to check the result.
 
 == Frequently Asked Questions ==
@@ -46,11 +46,11 @@ No. The content is stored in the database and served virtually at `/humans.txt`.
 
 = The /humans.txt URL returns a 404 =
 
-Go to **Settings â†’ Permalinks** and save the changes to regenerate the rewrite rules.
+Go to **Settings -> Permalinks** and save the changes to regenerate the rewrite rules.
 
 = Can I disable the head link? =
 
-Yes, from **Settings â†’ Humans.txt** using the matching checkbox.
+Yes, from **Settings -> Humans.txt** using the matching checkbox.
 
 == Changelog ==
 
