@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Create and serve a virtual humans.txt file and add the rel=author link to your site's head. Edit it directly in WordPress, no FTP needed.
+Credit the people behind your site with a humans.txt file you can edit right in WordPress. Served virtually, with an automatic author link.
 
 == Description ==
 
