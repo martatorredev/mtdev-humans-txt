@@ -14,9 +14,7 @@ Create and serve a virtual humans.txt file and add the rel=author link to your s
 
 MTDEV Humans TXT lets you create and edit your site's **humans.txt** file straight from the WordPress dashboard, without touching code or uploading files over FTP.
 
-The file is served **virtually** at your site root (`https://your-site.com/humans.txt`) through rewrite rules, so it needs no write permissions and no physical file is created. It also adds the recommended tag to the `<head>`:
-
-`<link type="text/plain" rel="author" href="https://your-site.com/humans.txt" />`
+The file is served **virtually** at your site root (`https://your-site.com/humans.txt`) through rewrite rules, so it needs no write permissions and no physical file is created. It also adds the recommended `rel="author"` link to your site's `<head>`, pointing to your humans.txt file.
 
 Features:
 
